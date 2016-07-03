@@ -35,7 +35,7 @@ The largest number X, such that 1 ≤ X ≤ P and X is divisible by 2 exactly N 
 """
 
 def EvenNumbers(N, P):
-	# the numbers wich can be divided exactly N times by 2
+    # the numbers wich can be divided exactly N times by 2
     # have the following form 2 ** N * c, where c is an odd number
     # for example when N = 2 
     # the numbers wich are divisible by 2 exactly two times are the following
