@@ -46,7 +46,7 @@ def EvenNumbers(N, P):
     n = 2 ** N 
     c = P / n
     
-     # check if c is odd, if not reduce it by 1
+    # check if c is odd, if not reduce it by 1
     if c % 2 == 0:
         c -= 1
     
